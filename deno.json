@@ -6,7 +6,7 @@
     "@std/assert": "jsr:@std/assert@1"
   },
   "deploy": {
-    "project": "33ff359f-61e7-497f-8cfc-464620842526",
+    "project": "",
     "exclude": [
       "**/node_modules"
     ],
